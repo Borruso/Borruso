@@ -1,4 +1,6 @@
-### Hi there, I'm Giuseppe Borruso - aka Borruso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Giuseppe Borruso - aka Borruso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+---
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_borrusogiuseppe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-borruso-5310a4208)
@@ -18,6 +20,19 @@
 
 ---
 
+### Other:
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
+[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org)
+![BorrusoMG](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BorrusoMG)
+![DA BorrusoMG](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![BorrusoMG](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/falsi9663?si=bebdd48e74564ed4)
+
+---
+
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
@@ -27,3 +42,15 @@
 4. 🗣 Commented on [#2198](https://github.com/OCA/l10n-italy/issues/2198) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 5. 🗣 Commented on [#2138](https://github.com/OCA/l10n-italy/issues/2138) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
+
+---
+
+### Contribution Graph
+![Borruso](https://activity-graph.herokuapp.com/graph?username=borruso&theme=github)
+
+---
+
+### GitHub Stats
+![Borruso](https://github-readme-stats.vercel.app/api?username=borruso&show_icons=true&theme=react&count_private=true)
+![Borruso](https://github-readme-stats.vercel.app/api/top-langs/?username=borruso&show_icons=true&theme=react&count_private=true)
+![Borruso](https://github-readme-streak-stats.herokuapp.com/?user=borruso&show_icons=true&theme=react&count_private=true)

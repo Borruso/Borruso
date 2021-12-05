@@ -21,4 +21,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2539](https://github.com/OCA/l10n-italy/pull/2539) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. ❌ Closed PR [#2538](https://github.com/OCA/l10n-italy/pull/2538) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#2538](https://github.com/OCA/l10n-italy/pull/2538) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#2198](https://github.com/OCA/l10n-italy/issues/2198) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#2138](https://github.com/OCA/l10n-italy/issues/2138) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

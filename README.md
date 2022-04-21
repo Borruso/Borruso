@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2754](https://github.com/OCA/l10n-italy/issues/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#2754](https://github.com/OCA/l10n-italy/pull/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#2711](https://github.com/OCA/l10n-italy/issues/2711) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🎉 Merged PR [#21](https://github.com/DinamicheAziendali/graphite-sh/pull/21) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
-5. 💪 Opened PR [#21](https://github.com/DinamicheAziendali/graphite-sh/pull/21) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. 💪 Opened PR [#4](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print/pull/4) in [airsrl/l10n-italy-MIG-14.0-fiscal_epos_print](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print)
+2. 💪 Opened PR [#3](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print/pull/3) in [airsrl/l10n-italy-MIG-14.0-fiscal_epos_print](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print)
+3. 🗣 Commented on [#2754](https://github.com/OCA/l10n-italy/issues/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#2754](https://github.com/OCA/l10n-italy/pull/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#2711](https://github.com/OCA/l10n-italy/issues/2711) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

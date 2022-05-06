@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Borruso/14.0-mig-fiscal-epos-print/pull/2) in [Borruso/14.0-mig-fiscal-epos-print](https://github.com/Borruso/14.0-mig-fiscal-epos-print)
-2. 💪 Opened PR [#4](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print/pull/4) in [airsrl/l10n-italy-MIG-14.0-fiscal_epos_print](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print)
-3. 💪 Opened PR [#3](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print/pull/3) in [airsrl/l10n-italy-MIG-14.0-fiscal_epos_print](https://github.com/airsrl/l10n-italy-MIG-14.0-fiscal_epos_print)
-4. 🗣 Commented on [#2754](https://github.com/OCA/l10n-italy/issues/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#2754](https://github.com/OCA/l10n-italy/pull/2754) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🎉 Merged PR [#29](https://github.com/DinamicheAziendali/graphite-sh/pull/29) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+2. 💪 Opened PR [#29](https://github.com/DinamicheAziendali/graphite-sh/pull/29) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+3. 🎉 Merged PR [#28](https://github.com/DinamicheAziendali/graphite-sh/pull/28) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+4. 💪 Opened PR [#28](https://github.com/DinamicheAziendali/graphite-sh/pull/28) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+5. ❌ Closed PR [#2](https://github.com/Borruso/14.0-mig-fiscal-epos-print/pull/2) in [Borruso/14.0-mig-fiscal-epos-print](https://github.com/Borruso/14.0-mig-fiscal-epos-print)
 <!--END_SECTION:activity-->
 
 ---

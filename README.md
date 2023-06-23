@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#250](https://github.com/OCA/account-closing/pull/250) in [OCA/account-closing](https://github.com/OCA/account-closing)
-2. 💪 Opened PR [#3395](https://github.com/OCA/l10n-italy/pull/3395) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#3394](https://github.com/OCA/l10n-italy/pull/3394) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#3392](https://github.com/OCA/l10n-italy/pull/3392) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#2258](https://github.com/OCA/l10n-italy/issues/2258) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#426](https://github.com/OCA/server-auth/issues/426) in [OCA/server-auth](https://github.com/OCA/server-auth)
+2. 💪 Opened PR [#529](https://github.com/OCA/server-auth/pull/529) in [OCA/server-auth](https://github.com/OCA/server-auth)
+3. 💪 Opened PR [#600](https://github.com/OCA/operating-unit/pull/600) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+4. 🗣 Commented on [#509](https://github.com/OCA/operating-unit/issues/509) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+5. 💪 Opened PR [#599](https://github.com/OCA/operating-unit/pull/599) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
 <!--END_SECTION:activity-->
 
 ---

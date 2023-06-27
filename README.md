@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/OCA/maintenance/issues/240) in [OCA/maintenance](https://github.com/OCA/maintenance)
-2. 💪 Opened PR [#343](https://github.com/OCA/maintenance/pull/343) in [OCA/maintenance](https://github.com/OCA/maintenance)
-3. 🗣 Commented on [#426](https://github.com/OCA/server-auth/issues/426) in [OCA/server-auth](https://github.com/OCA/server-auth)
-4. 💪 Opened PR [#529](https://github.com/OCA/server-auth/pull/529) in [OCA/server-auth](https://github.com/OCA/server-auth)
-5. 💪 Opened PR [#600](https://github.com/OCA/operating-unit/pull/600) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+1. 💪 Opened PR [#3409](https://github.com/OCA/l10n-italy/pull/3409) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#3406](https://github.com/OCA/l10n-italy/pull/3406) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#240](https://github.com/OCA/maintenance/issues/240) in [OCA/maintenance](https://github.com/OCA/maintenance)
+4. 💪 Opened PR [#343](https://github.com/OCA/maintenance/pull/343) in [OCA/maintenance](https://github.com/OCA/maintenance)
+5. 🗣 Commented on [#426](https://github.com/OCA/server-auth/issues/426) in [OCA/server-auth](https://github.com/OCA/server-auth)
 <!--END_SECTION:activity-->
 
 ---

@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Borruso/social/pull/1) in [Borruso/social](https://github.com/Borruso/social)
-2. 💪 Opened PR [#113](https://github.com/OCA/manufacture-reporting/pull/113) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
-3. 💪 Opened PR [#3409](https://github.com/OCA/l10n-italy/pull/3409) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#3406](https://github.com/OCA/l10n-italy/pull/3406) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#240](https://github.com/OCA/maintenance/issues/240) in [OCA/maintenance](https://github.com/OCA/maintenance)
+1. 🗣 Commented on [#240](https://github.com/OCA/maintenance/issues/240) in [OCA/maintenance](https://github.com/OCA/maintenance)
+2. 💪 Opened PR [#344](https://github.com/OCA/maintenance/pull/344) in [OCA/maintenance](https://github.com/OCA/maintenance)
+3. 🎉 Merged PR [#1](https://github.com/Borruso/social/pull/1) in [Borruso/social](https://github.com/Borruso/social)
+4. 💪 Opened PR [#113](https://github.com/OCA/manufacture-reporting/pull/113) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
+5. 💪 Opened PR [#3409](https://github.com/OCA/l10n-italy/pull/3409) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

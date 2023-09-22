@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#621](https://github.com/OCA/operating-unit/pull/621) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-2. 💪 Opened PR [#3583](https://github.com/OCA/l10n-italy/pull/3583) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#3580](https://github.com/OCA/l10n-italy/pull/3580) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. ❌ Closed PR [#2381](https://github.com/OCA/l10n-italy/pull/2381) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#3467](https://github.com/OCA/l10n-italy/pull/3467#issuecomment-1721491216) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#10](https://github.com/ursais/sale-workflow/pull/10) in [ursais/sale-workflow](https://github.com/ursais/sale-workflow)
+2. 💪 Opened PR [#621](https://github.com/OCA/operating-unit/pull/621) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+3. 💪 Opened PR [#3583](https://github.com/OCA/l10n-italy/pull/3583) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#3580](https://github.com/OCA/l10n-italy/pull/3580) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❌ Closed PR [#2381](https://github.com/OCA/l10n-italy/pull/2381) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

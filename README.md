@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3327](https://github.com/OCA/l10n-italy/pull/3327#issuecomment-1740853118) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#2019](https://github.com/OCA/purchase-workflow/pull/2019) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
-3. 🗣 Commented on [#3387](https://github.com/OCA/l10n-italy/pull/3387#issuecomment-1740457962) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#3613](https://github.com/OCA/l10n-italy/pull/3613) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#3552](https://github.com/OCA/l10n-italy/pull/3552#issuecomment-1734903416) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#3327](https://github.com/OCA/l10n-italy/pull/3327#issuecomment-1741786819) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#3622](https://github.com/OCA/l10n-italy/pull/3622) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#2966](https://github.com/OCA/l10n-italy/pull/2966#issuecomment-1741780835) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#3327](https://github.com/OCA/l10n-italy/pull/3327#issuecomment-1740853118) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 💪 Opened PR [#2019](https://github.com/OCA/purchase-workflow/pull/2019) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
 <!--END_SECTION:activity-->
 
 ---

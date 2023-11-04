@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/OCA/account-closing/pull/248#issuecomment-1780617141) in [OCA/account-closing](https://github.com/OCA/account-closing)
-2. 💪 Opened PR [#3677](https://github.com/OCA/l10n-italy/pull/3677) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#248](https://github.com/OCA/account-closing/pull/248#issuecomment-1772308278) in [OCA/account-closing](https://github.com/OCA/account-closing)
-4. 🗣 Commented on [#621](https://github.com/OCA/operating-unit/pull/621#issuecomment-1768854560) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-5. 🗣 Commented on [#3643](https://github.com/OCA/l10n-italy/pull/3643#issuecomment-1761162885) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#3699](https://github.com/OCA/l10n-italy/pull/3699#issuecomment-1792349425) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#3700](https://github.com/OCA/l10n-italy/pull/3700) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#3699](https://github.com/OCA/l10n-italy/pull/3699) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#3698](https://github.com/OCA/l10n-italy/pull/3698) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#248](https://github.com/OCA/account-closing/pull/248#issuecomment-1780617141) in [OCA/account-closing](https://github.com/OCA/account-closing)
 <!--END_SECTION:activity-->
 
 ---

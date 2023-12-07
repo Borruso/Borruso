@@ -35,10 +35,10 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3758](https://github.com/OCA/l10n-italy/pull/3758) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#3750](https://github.com/OCA/l10n-italy/pull/3750) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. ❗ Opened issue [#3725](https://github.com/OCA/l10n-italy/issues/3725) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🎉 Merged PR [#52](https://github.com/DinamicheAziendali/graphite-sh/pull/52) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. 🗣 Commented on [#2438](https://github.com/OCA/sale-workflow/pull/2438#issuecomment-1842310826) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+2. 💪 Opened PR [#3758](https://github.com/OCA/l10n-italy/pull/3758) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#3750](https://github.com/OCA/l10n-italy/pull/3750) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. ❗ Opened issue [#3725](https://github.com/OCA/l10n-italy/issues/3725) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 5. 🎉 Merged PR [#52](https://github.com/DinamicheAziendali/graphite-sh/pull/52) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 <!--END_SECTION:activity-->
 

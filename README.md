@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3699](https://github.com/OCA/l10n-italy/pull/3699#issuecomment-1863167862) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. ❗ Opened issue [#3792](https://github.com/OCA/l10n-italy/issues/3792) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#3698](https://github.com/OCA/l10n-italy/pull/3698#issuecomment-1863155070) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#3705](https://github.com/OCA/l10n-italy/pull/3705#issuecomment-1863123067) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#3700](https://github.com/OCA/l10n-italy/pull/3700#issuecomment-1863112594) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#3477](https://github.com/OCA/l10n-italy/pull/3477#issuecomment-1864730857) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#3538](https://github.com/OCA/l10n-italy/pull/3538#issuecomment-1864722423) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#3699](https://github.com/OCA/l10n-italy/pull/3699#issuecomment-1863167862) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. ❗ Opened issue [#3792](https://github.com/OCA/l10n-italy/issues/3792) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#3698](https://github.com/OCA/l10n-italy/pull/3698#issuecomment-1863155070) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

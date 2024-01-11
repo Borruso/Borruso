@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3818](https://github.com/OCA/l10n-italy/pull/3818) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🎉 Merged PR [#18](https://github.com/Borruso/l10n-italy/pull/18) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
-3. ❗ Opened issue [#3804](https://github.com/OCA/l10n-italy/issues/3804) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#3700](https://github.com/OCA/l10n-italy/pull/3700#issuecomment-1866539518) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#3477](https://github.com/OCA/l10n-italy/pull/3477#issuecomment-1864730857) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#3639](https://github.com/OCA/l10n-italy/issues/3639#issuecomment-1884555103) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#3804](https://github.com/OCA/l10n-italy/issues/3804#issuecomment-1884504819) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#3828](https://github.com/OCA/l10n-italy/pull/3828) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#3818](https://github.com/OCA/l10n-italy/pull/3818) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🎉 Merged PR [#18](https://github.com/Borruso/l10n-italy/pull/18) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

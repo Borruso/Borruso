@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3907](https://github.com/OCA/l10n-italy/issues/3907) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#3848](https://github.com/OCA/l10n-italy/pull/3848#issuecomment-1911695626) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#3906](https://github.com/OCA/l10n-italy/pull/3906) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#3853](https://github.com/OCA/l10n-italy/pull/3853) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#3580](https://github.com/OCA/l10n-italy/pull/3580#issuecomment-1891519528) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#3918](https://github.com/OCA/l10n-italy/pull/3918#issuecomment-1916848123) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#1656](https://github.com/OCA/account-invoicing/pull/1656) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
+3. ❗ Opened issue [#3907](https://github.com/OCA/l10n-italy/issues/3907) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#3848](https://github.com/OCA/l10n-italy/pull/3848#issuecomment-1911695626) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 💪 Opened PR [#3906](https://github.com/OCA/l10n-italy/pull/3906) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

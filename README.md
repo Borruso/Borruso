@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2673](https://github.com/OCA/l10n-italy/pull/2673#issuecomment-1963641920) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#2520](https://github.com/OCA/l10n-italy/pull/2520#issuecomment-1963636692) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. ❌ Closed PR [#3705](https://github.com/OCA/l10n-italy/pull/3705) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#3705](https://github.com/OCA/l10n-italy/pull/3705#issuecomment-1960936857) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#2949](https://github.com/OCA/sale-workflow/pull/2949) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+1. 💪 Opened PR [#574](https://github.com/OCA/management-system/pull/574) in [OCA/management-system](https://github.com/OCA/management-system)
+2. 🗣 Commented on [#3980](https://github.com/OCA/l10n-italy/pull/3980#issuecomment-1966107251) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#2673](https://github.com/OCA/l10n-italy/pull/2673#issuecomment-1963641920) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#2520](https://github.com/OCA/l10n-italy/pull/2520#issuecomment-1963636692) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❌ Closed PR [#3705](https://github.com/OCA/l10n-italy/pull/3705) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
 
 ---

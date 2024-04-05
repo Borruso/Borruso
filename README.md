@@ -35,11 +35,11 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1717](https://github.com/OCA/partner-contact/pull/1717) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-2. 🗣 Commented on [#4074](https://github.com/OCA/l10n-italy/issues/4074#issuecomment-2026892916) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🎉 Merged PR [#56](https://github.com/DinamicheAziendali/graphite-sh/pull/56) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
+1. 💪 Opened PR [#4083](https://github.com/OCA/l10n-italy/pull/4083) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#1717](https://github.com/OCA/partner-contact/pull/1717) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+3. 🗣 Commented on [#4074](https://github.com/OCA/l10n-italy/issues/4074#issuecomment-2026892916) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 4. 🎉 Merged PR [#56](https://github.com/DinamicheAziendali/graphite-sh/pull/56) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
-5. 💪 Opened PR [#4075](https://github.com/OCA/l10n-italy/pull/4075) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🎉 Merged PR [#56](https://github.com/DinamicheAziendali/graphite-sh/pull/56) in [DinamicheAziendali/graphite-sh](https://github.com/DinamicheAziendali/graphite-sh)
 <!--END_SECTION:activity-->
 
 ---

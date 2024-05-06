@@ -1,34 +1,138 @@
-## Hi there, I'm Giuseppe Borruso - aka Borruso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  Hi there, I'm Giuseppe Borruso - aka Borruso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+</h1>
 
----
+<div align="center">
+    <!-- https://shields.io/ -->
+    <!-- https://simpleicons.org/ -->
+    <a 
+        href="https://www.instagram.com/_borrusogiuseppe" 
+        title="Instagram"
+    >
+        <img 
+            src="https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat" 
+            alt="Instagram Logo" 
+        />
+    </a>
+    <a 
+        href="https://www.linkedin.com/in/giuseppe-borruso-5310a4208" 
+        title="LinkedIn"
+    >
+        <img 
+            src="https://img.shields.io/static/v1?color=0A66C2&label=&logo=linkedin&logoColor=white&message=LinkedIn&style=flat" 
+            alt="LinkedIn Logo" 
+        />
+    </a>
+    <a 
+        href="https://discordapp.com/users/498451140678123520" 
+        title="Discord"
+    >
+        <img 
+            src="https://img.shields.io/static/v1?color=5865F2&label=&logo=discord&logoColor=white&message=Discord&style=flat" 
+            alt="Discord logo" 
+        />
+    </a>
+    <a 
+        href="https://open.spotify.com/user/falsi9663?si=bebdd48e74564ed4" 
+        title="Spotify"
+    >
+        <img 
+            src="https://img.shields.io/static/v1?color=1DB954&label=&logo=spotify&logoColor=white&message=Spotify&style=flat" 
+            alt="Spotify Logo" 
+        />
+    </a>
+    <sup>|</sup>
+    <img src="https://komarev.com/ghpvc/?username=Borruso&abbreviated=true" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_borrusogiuseppe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-borruso-5310a4208)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/498451140678123520)
+<div align="center">
+    <p>
+        <sup>
+            🔭 I’m currently working for <a href="https://github.com/dinamicheaziendali"><strong>Dinamiche Aziendali Srl</strong></a><br />
+            ‍👨‍💻 All of my projects are available at <a href="https://github.com/borruso"><strong>github.com/borruso</strong></a><br />
+        </sup>
+    </p>
+</div>
 
-- 🔭 I’m currently working for [Dinamiche Aziendali Srl](https://github.com/dinamicheaziendali)
-- 👨‍💻 All of my projects are available at [github.com/borruso](https://github.com/borruso)
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img 
+                    src="https://github-readme-stats.vercel.app/api?username=Borruso&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" 
+                    alt="Borruso's GitHub Stats" 
+                    title="Borruso's GitHub Stats" 
+                />
+            </td>
+            <td>
+                <img 
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borruso&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" 
+                    alt="Borruso's GitHub Stats" 
+                    title="Borruso's GitHub Stats" 
+                />
+            </td>
+        </tr>
+    </table>
+</div>
 
-### Languages and Tools:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borruso)
-
----
-
-### Other:
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
-[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org)
-![BorrusoMG](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BorrusoMG)
-![DA BorrusoMG](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![BorrusoMG](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/falsi9663?si=bebdd48e74564ed4)
+<div align="center">
+    <!-- https://shields.io/ -->
+    <!-- https://simpleicons.org/ -->
+    <a 
+        href="https://www.linux.org" 
+        title="Linux"
+    >
+        <img 
+            src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&message=Linux&style=flat" 
+            alt="Linux Logo" 
+        />
+    </a>
+    <a 
+        href="https://www.jetbrains.com/pycharm" 
+        title="PyCharm"
+    >
+        <img 
+            src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&message=PyCharm&style=flat" 
+            alt="PyCharm Logo" 
+        />
+    </a>
+    <a 
+        href="https://krita.org" 
+        title="Krita"
+    >
+        <img 
+            src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white&message=Krita&style=flat" 
+            alt="Krita logo" 
+        />
+    </a>
+    <a 
+        href="https://steamcommunity.com/id/BorrusoMG/" 
+        title="Steam"
+    >
+        <img 
+            src="https://img.shields.io/static/v1?color=000000&label=&logo=steam&logoColor=white&message=Steam&style=flat" 
+            alt="Steam Logo" 
+        />
+    </a>
+    <a 
+        href="#" 
+        title="Epic Games"
+    >
+        <img 
+            src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white&message=Epic%20Games&style=flat" 
+            alt="Epic Games Logo" 
+        />
+    </a>
+    <a 
+        href="#" 
+        title="Riot Games"
+    >
+        <img 
+            src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white&message=Riot%20Games&style=flat" 
+            alt="Riot Games Logo" 
+        />
+    </a>
+</div>
 
 ---
 
@@ -41,15 +145,3 @@
 4. 🗣 Commented on [#396](https://github.com/OCA/maintenance/issues/396#issuecomment-2084952872) in [OCA/maintenance](https://github.com/OCA/maintenance)
 5. 💪 Opened PR [#4122](https://github.com/OCA/l10n-italy/pull/4122) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->
-
----
-
-### Contribution Graph
-![Borruso](https://activity-graph.herokuapp.com/graph?username=borruso&theme=github)
-
----
-
-### GitHub Stats
-![Borruso](https://github-readme-stats.vercel.app/api?username=borruso&show_icons=true&theme=react&count_private=true)
-![Borruso](https://github-readme-stats.vercel.app/api/top-langs/?username=borruso&show_icons=true&theme=react&count_private=true)
-![Borruso](https://github-readme-streak-stats.herokuapp.com/?user=borruso&show_icons=true&theme=react&count_private=true)

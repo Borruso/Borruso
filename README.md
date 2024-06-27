@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#437](https://github.com/OCA/account-fiscal-rule/pull/437) in [OCA/account-fiscal-rule](https://github.com/OCA/account-fiscal-rule)
-2. 💪 Opened PR [#4210](https://github.com/OCA/l10n-italy/pull/4210) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#4209](https://github.com/OCA/l10n-italy/pull/4209) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#4208](https://github.com/OCA/l10n-italy/pull/4208) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#4175](https://github.com/OCA/l10n-italy/pull/4175) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#4234](https://github.com/OCA/l10n-italy/issues/4234#issuecomment-2191773826) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🔒 Closed issue [#4234](https://github.com/OCA/l10n-italy/issues/4234) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. ❗ Opened issue [#4234](https://github.com/OCA/l10n-italy/issues/4234) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#437](https://github.com/OCA/account-fiscal-rule/pull/437) in [OCA/account-fiscal-rule](https://github.com/OCA/account-fiscal-rule)
+5. 💪 Opened PR [#4210](https://github.com/OCA/l10n-italy/pull/4210) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

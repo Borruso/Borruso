@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Borruso/account-closing/pull/1) in [Borruso/account-closing](https://github.com/Borruso/account-closing)
-2. ❗ Opened issue [#4336](https://github.com/OCA/l10n-italy/issues/4336) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. ❗ Opened issue [#4335](https://github.com/OCA/l10n-italy/issues/4335) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. ❗ Opened issue [#4334](https://github.com/OCA/l10n-italy/issues/4334) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#2949](https://github.com/OCA/sale-workflow/pull/2949#issuecomment-2252176899) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+1. 💪 Opened PR [#882](https://github.com/OCA/delivery-carrier/pull/882) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
+2. 💪 Opened PR [#4372](https://github.com/OCA/l10n-italy/pull/4372) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🎉 Merged PR [#1](https://github.com/Borruso/account-closing/pull/1) in [Borruso/account-closing](https://github.com/Borruso/account-closing)
+4. ❗ Opened issue [#4336](https://github.com/OCA/l10n-italy/issues/4336) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❗ Opened issue [#4335](https://github.com/OCA/l10n-italy/issues/4335) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

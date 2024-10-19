@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4401](https://github.com/OCA/l10n-italy/pull/4401) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#4385](https://github.com/OCA/l10n-italy/pull/4385#issuecomment-2382561098) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#882](https://github.com/OCA/delivery-carrier/pull/882) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
-4. 💪 Opened PR [#4372](https://github.com/OCA/l10n-italy/pull/4372) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🎉 Merged PR [#1](https://github.com/Borruso/account-closing/pull/1) in [Borruso/account-closing](https://github.com/Borruso/account-closing)
+1. 💪 Opened PR [#4413](https://github.com/OCA/l10n-italy/pull/4413) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. ❌ Closed PR [#4372](https://github.com/OCA/l10n-italy/pull/4372) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#4118](https://github.com/OCA/l10n-italy/pull/4118#issuecomment-2421825618) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#4411](https://github.com/OCA/l10n-italy/pull/4411) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❌ Closed PR [#21](https://github.com/Borruso/l10n-italy/pull/21) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
 <!--END_SECTION:activity-->

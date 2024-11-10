@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#600](https://github.com/OCA/operating-unit/pull/600#issuecomment-2464312855) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-2. 🗣 Commented on [#248](https://github.com/OCA/account-closing/pull/248#issuecomment-2464292873) in [OCA/account-closing](https://github.com/OCA/account-closing)
-3. ❌ Closed PR [#3299](https://github.com/OCA/l10n-italy/pull/3299) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#3299](https://github.com/OCA/l10n-italy/pull/3299#issuecomment-2464267759) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. ❌ Closed PR [#50](https://github.com/OCA/repo-maintainer-conf/pull/50) in [OCA/repo-maintainer-conf](https://github.com/OCA/repo-maintainer-conf)
+1. 💪 Opened PR [#186833](https://github.com/odoo/odoo/pull/186833) in [odoo/odoo](https://github.com/odoo/odoo)
+2. 🗣 Commented on [#600](https://github.com/OCA/operating-unit/pull/600#issuecomment-2464312855) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+3. 🗣 Commented on [#248](https://github.com/OCA/account-closing/pull/248#issuecomment-2464292873) in [OCA/account-closing](https://github.com/OCA/account-closing)
+4. ❌ Closed PR [#3299](https://github.com/OCA/l10n-italy/pull/3299) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#3299](https://github.com/OCA/l10n-italy/pull/3299#issuecomment-2464267759) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

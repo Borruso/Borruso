@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#893](https://github.com/OCA/delivery-carrier/pull/893#issuecomment-2493713965) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
-2. 🗣 Commented on [#4293](https://github.com/OCA/l10n-italy/pull/4293#issuecomment-2493610148) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#186833](https://github.com/odoo/odoo/pull/186833#issuecomment-2469991769) in [odoo/odoo](https://github.com/odoo/odoo)
-4. 🗣 Commented on [#186833](https://github.com/odoo/odoo/pull/186833#issuecomment-2467501131) in [odoo/odoo](https://github.com/odoo/odoo)
-5. 💪 Opened PR [#186833](https://github.com/odoo/odoo/pull/186833) in [odoo/odoo](https://github.com/odoo/odoo)
+1. 💪 Opened PR [#1901](https://github.com/OCA/partner-contact/pull/1901) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+2. 💪 Opened PR [#1900](https://github.com/OCA/partner-contact/pull/1900) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+3. 💪 Opened PR [#723](https://github.com/OCA/timesheet/pull/723) in [OCA/timesheet](https://github.com/OCA/timesheet)
+4. 💪 Opened PR [#3003](https://github.com/OCA/web/pull/3003) in [OCA/web](https://github.com/OCA/web)
+5. 🗣 Commented on [#893](https://github.com/OCA/delivery-carrier/pull/893#issuecomment-2493713965) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#909](https://github.com/OCA/delivery-carrier/pull/909) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
-2. 💪 Opened PR [#1383](https://github.com/OCA/project/pull/1383) in [OCA/project](https://github.com/OCA/project)
-3. 💪 Opened PR [#1382](https://github.com/OCA/project/pull/1382) in [OCA/project](https://github.com/OCA/project)
-4. 💪 Opened PR [#1903](https://github.com/OCA/partner-contact/pull/1903) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-5. 💪 Opened PR [#1902](https://github.com/OCA/partner-contact/pull/1902) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+1. 🗣 Commented on [#1251](https://github.com/OCA/pos/issues/1251#issuecomment-2507990751) in [OCA/pos](https://github.com/OCA/pos)
+2. 💪 Opened PR [#1386](https://github.com/OCA/project/pull/1386) in [OCA/project](https://github.com/OCA/project)
+3. 🗣 Commented on [#1251](https://github.com/OCA/pos/issues/1251#issuecomment-2507837856) in [OCA/pos](https://github.com/OCA/pos)
+4. 💪 Opened PR [#989](https://github.com/OCA/e-commerce/pull/989) in [OCA/e-commerce](https://github.com/OCA/e-commerce)
+5. 💪 Opened PR [#1909](https://github.com/OCA/partner-contact/pull/1909) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#582](https://github.com/OCA/commission/pull/582) in [OCA/commission](https://github.com/OCA/commission)
-2. 💪 Opened PR [#776](https://github.com/OCA/account-payment/pull/776) in [OCA/account-payment](https://github.com/OCA/account-payment)
-3. 💪 Opened PR [#1263](https://github.com/OCA/account-financial-reporting/pull/1263) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
-4. 💪 Opened PR [#312](https://github.com/OCA/account-closing/pull/312) in [OCA/account-closing](https://github.com/OCA/account-closing)
-5. 💪 Opened PR [#311](https://github.com/OCA/account-closing/pull/311) in [OCA/account-closing](https://github.com/OCA/account-closing)
+1. 💪 Opened PR [#583](https://github.com/OCA/commission/pull/583) in [OCA/commission](https://github.com/OCA/commission)
+2. 💪 Opened PR [#582](https://github.com/OCA/commission/pull/582) in [OCA/commission](https://github.com/OCA/commission)
+3. 💪 Opened PR [#776](https://github.com/OCA/account-payment/pull/776) in [OCA/account-payment](https://github.com/OCA/account-payment)
+4. 💪 Opened PR [#1263](https://github.com/OCA/account-financial-reporting/pull/1263) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+5. 💪 Opened PR [#312](https://github.com/OCA/account-closing/pull/312) in [OCA/account-closing](https://github.com/OCA/account-closing)
 <!--END_SECTION:activity-->

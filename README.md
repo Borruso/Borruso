@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3470](https://github.com/OCA/sale-workflow/pull/3470#issuecomment-2539201692) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
-2. 🗣 Commented on [#4245](https://github.com/OCA/l10n-italy/pull/4245#issuecomment-2539071152) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#989](https://github.com/OCA/e-commerce/pull/989#issuecomment-2531980770) in [OCA/e-commerce](https://github.com/OCA/e-commerce)
-4. 💪 Opened PR [#981](https://github.com/OCA/server-ux/pull/981) in [OCA/server-ux](https://github.com/OCA/server-ux)
-5. 💪 Opened PR [#3470](https://github.com/OCA/sale-workflow/pull/3470) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+1. 🗣 Commented on [#4492](https://github.com/OCA/l10n-italy/pull/4492#issuecomment-2540845249) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#3470](https://github.com/OCA/sale-workflow/pull/3470#issuecomment-2539201692) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+3. 🗣 Commented on [#4245](https://github.com/OCA/l10n-italy/pull/4245#issuecomment-2539071152) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#989](https://github.com/OCA/e-commerce/pull/989#issuecomment-2531980770) in [OCA/e-commerce](https://github.com/OCA/e-commerce)
+5. 💪 Opened PR [#981](https://github.com/OCA/server-ux/pull/981) in [OCA/server-ux](https://github.com/OCA/server-ux)
 <!--END_SECTION:activity-->

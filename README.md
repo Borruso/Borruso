@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4517](https://github.com/OCA/l10n-italy/pull/4517) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#57](https://github.com/OCA/project-reporting/pull/57) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
-3. ❗ Opened issue [#2](https://github.com/DinamicheAziendali/l10n-italy/issues/2) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
-4. 🎉 Merged PR [#1](https://github.com/DinamicheAziendali/stock_close_period/pull/1) in [DinamicheAziendali/stock_close_period](https://github.com/DinamicheAziendali/stock_close_period)
-5. 💪 Opened PR [#4507](https://github.com/OCA/l10n-italy/pull/4507) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#1901](https://github.com/OCA/partner-contact/pull/1901#issuecomment-2558443224) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+2. 💪 Opened PR [#4517](https://github.com/OCA/l10n-italy/pull/4517) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#57](https://github.com/OCA/project-reporting/pull/57) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
+4. ❗ Opened issue [#2](https://github.com/DinamicheAziendali/l10n-italy/issues/2) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
+5. 🎉 Merged PR [#1](https://github.com/DinamicheAziendali/stock_close_period/pull/1) in [DinamicheAziendali/stock_close_period](https://github.com/DinamicheAziendali/stock_close_period)
 <!--END_SECTION:activity-->

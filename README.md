@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#734](https://github.com/OCA/operating-unit/pull/734) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-2. 🗣 Commented on [#4480](https://github.com/OCA/l10n-italy/pull/4480#issuecomment-2582045752) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#4335](https://github.com/OCA/l10n-italy/issues/4335#issuecomment-2582032324) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#4336](https://github.com/OCA/l10n-italy/issues/4336#issuecomment-2582030888) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#4520](https://github.com/OCA/l10n-italy/pull/4520#issuecomment-2569228016) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#4527](https://github.com/OCA/l10n-italy/pull/4527) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#734](https://github.com/OCA/operating-unit/pull/734) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+3. 🗣 Commented on [#4480](https://github.com/OCA/l10n-italy/pull/4480#issuecomment-2582045752) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#4335](https://github.com/OCA/l10n-italy/issues/4335#issuecomment-2582032324) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#4336](https://github.com/OCA/l10n-italy/issues/4336#issuecomment-2582030888) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

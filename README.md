@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668857956) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-2. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668792860) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-3. 💪 Opened PR [#371](https://github.com/OCA/stock-logistics-reporting/pull/371) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-4. 💪 Opened PR [#2571](https://github.com/OCA/purchase-workflow/pull/2571) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
-5. 🗣 Commented on [#4480](https://github.com/OCA/l10n-italy/pull/4480#issuecomment-2651410613) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. ❌ Closed PR [#312](https://github.com/OCA/account-closing/pull/312) in [OCA/account-closing](https://github.com/OCA/account-closing)
+2. ❌ Closed PR [#311](https://github.com/OCA/account-closing/pull/311) in [OCA/account-closing](https://github.com/OCA/account-closing)
+3. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668857956) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
+4. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668792860) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
+5. 💪 Opened PR [#371](https://github.com/OCA/stock-logistics-reporting/pull/371) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
 <!--END_SECTION:activity-->

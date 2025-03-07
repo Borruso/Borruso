@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#312](https://github.com/OCA/account-closing/pull/312) in [OCA/account-closing](https://github.com/OCA/account-closing)
-2. ❌ Closed PR [#311](https://github.com/OCA/account-closing/pull/311) in [OCA/account-closing](https://github.com/OCA/account-closing)
-3. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668857956) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-4. 🗣 Commented on [#371](https://github.com/OCA/stock-logistics-reporting/pull/371#issuecomment-2668792860) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-5. 💪 Opened PR [#371](https://github.com/OCA/stock-logistics-reporting/pull/371) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
+1. 💪 Opened PR [#2596](https://github.com/OCA/purchase-workflow/pull/2596) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
+2. 💪 Opened PR [#1939](https://github.com/OCA/account-invoicing/pull/1939) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
+3. 💪 Opened PR [#676](https://github.com/OCA/stock-logistics-barcode/pull/676) in [OCA/stock-logistics-barcode](https://github.com/OCA/stock-logistics-barcode)
+4. ❌ Closed PR [#312](https://github.com/OCA/account-closing/pull/312) in [OCA/account-closing](https://github.com/OCA/account-closing)
+5. ❌ Closed PR [#311](https://github.com/OCA/account-closing/pull/311) in [OCA/account-closing](https://github.com/OCA/account-closing)
 <!--END_SECTION:activity-->

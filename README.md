@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Borruso/l10n-italy/pull/24) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
-2. 🗣 Commented on [#24](https://github.com/Borruso/l10n-italy/pull/24#issuecomment-2865701584) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
-3. 🗣 Commented on [#1939](https://github.com/OCA/account-invoicing/pull/1939#issuecomment-2865687625) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
-4. 🗣 Commented on [#24](https://github.com/Borruso/l10n-italy/pull/24#issuecomment-2865641349) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
-5. 🗣 Commented on [#4702](https://github.com/OCA/l10n-italy/pull/4702#issuecomment-2783870020) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#1953](https://github.com/OCA/stock-logistics-workflow/pull/1953) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+2. 🎉 Merged PR [#24](https://github.com/Borruso/l10n-italy/pull/24) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
+3. 🗣 Commented on [#24](https://github.com/Borruso/l10n-italy/pull/24#issuecomment-2865701584) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
+4. 🗣 Commented on [#1939](https://github.com/OCA/account-invoicing/pull/1939#issuecomment-2865687625) in [OCA/account-invoicing](https://github.com/OCA/account-invoicing)
+5. 🗣 Commented on [#24](https://github.com/Borruso/l10n-italy/pull/24#issuecomment-2865641349) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4803](https://github.com/OCA/l10n-italy/pull/4803#issuecomment-2969985054) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#4803](https://github.com/OCA/l10n-italy/pull/4803) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. ❗ Opened issue [#908](https://github.com/SeeSharpSoft/intellij-csv-validator/issues/908) in [SeeSharpSoft/intellij-csv-validator](https://github.com/SeeSharpSoft/intellij-csv-validator)
-4. 💪 Opened PR [#8](https://github.com/odooNextev/l10n-italy/pull/8) in [odooNextev/l10n-italy](https://github.com/odooNextev/l10n-italy)
-5. 💪 Opened PR [#4791](https://github.com/OCA/l10n-italy/pull/4791) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#437](https://github.com/OCA/account-fiscal-rule/pull/437#issuecomment-2991365844) in [OCA/account-fiscal-rule](https://github.com/OCA/account-fiscal-rule)
+2. 🗣 Commented on [#1382](https://github.com/OCA/project/pull/1382#issuecomment-2991314243) in [OCA/project](https://github.com/OCA/project)
+3. 🗣 Commented on [#1903](https://github.com/OCA/partner-contact/pull/1903#issuecomment-2991302260) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+4. 🗣 Commented on [#1909](https://github.com/OCA/partner-contact/pull/1909#issuecomment-2991289540) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+5. 🗣 Commented on [#4411](https://github.com/OCA/l10n-italy/pull/4411#issuecomment-2990244103) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

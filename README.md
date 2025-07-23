@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/Borruso/l10n-italy/pull/34) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
-2. 🗣 Commented on [#4411](https://github.com/OCA/l10n-italy/pull/4411#issuecomment-3089909014) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#626](https://github.com/OCA/commission/pull/626) in [OCA/commission](https://github.com/OCA/commission)
-4. 🗣 Commented on [#4803](https://github.com/OCA/l10n-italy/pull/4803#issuecomment-3068360785) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🎉 Merged PR [#32](https://github.com/Borruso/l10n-italy/pull/32) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
+1. 🗣 Commented on [#34](https://github.com/Borruso/l10n-italy/pull/34#issuecomment-3103250513) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
+2. 🗣 Commented on [#2](https://github.com/Borruso/account-closing/pull/2#issuecomment-3103224972) in [Borruso/account-closing](https://github.com/Borruso/account-closing)
+3. 💪 Opened PR [#34](https://github.com/Borruso/l10n-italy/pull/34) in [Borruso/l10n-italy](https://github.com/Borruso/l10n-italy)
+4. 🗣 Commented on [#4411](https://github.com/OCA/l10n-italy/pull/4411#issuecomment-3089909014) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 💪 Opened PR [#626](https://github.com/OCA/commission/pull/626) in [OCA/commission](https://github.com/OCA/commission)
 <!--END_SECTION:activity-->

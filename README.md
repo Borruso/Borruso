@@ -140,8 +140,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2596](https://github.com/OCA/purchase-workflow/pull/2596#issuecomment-3390611035) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
-2. 🎉 Merged PR [#1](https://github.com/Borruso/purchase-workflow/pull/1) in [Borruso/purchase-workflow](https://github.com/Borruso/purchase-workflow)
-3. 💪 Opened PR [#4924](https://github.com/OCA/l10n-italy/pull/4924) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#4924](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3.  Labeled issue [#4922](https://github.com/OCA/l10n-italy/issues/4922) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 4. ❗ Opened issue [#4922](https://github.com/OCA/l10n-italy/issues/4922) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 5. 🗣 Commented on [#4921](https://github.com/OCA/l10n-italy/pull/4921#issuecomment-3324389548) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

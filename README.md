@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#1](https://github.com/DinamicheAziendali/l10n-italy/issues/1) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
-2.  Unassigned issue [#2](https://github.com/DinamicheAziendali/l10n-italy/issues/2) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
-3. 💪 Opened PR [#5023](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#5017](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#5014](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#5030](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2.  Unlabeled issue [#1](https://github.com/DinamicheAziendali/l10n-italy/issues/1) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
+3.  Unassigned issue [#2](https://github.com/DinamicheAziendali/l10n-italy/issues/2) in [DinamicheAziendali/l10n-italy](https://github.com/DinamicheAziendali/l10n-italy)
+4. 💪 Opened PR [#5023](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 💪 Opened PR [#5017](undefined) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

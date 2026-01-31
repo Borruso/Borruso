@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5379](https://github.com/OCA/OpenUpgrade/pull/5379) in [OCA/OpenUpgrade](https://github.com/OCA/OpenUpgrade)
-2. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789940584) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789926021) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789178928) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789135437) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#2209](https://github.com/OCA/account-financial-tools/pull/2209) in [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools)
+2. 🎉 Merged PR [#5379](https://github.com/OCA/OpenUpgrade/pull/5379) in [OCA/OpenUpgrade](https://github.com/OCA/OpenUpgrade)
+3. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789940584) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789926021) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789178928) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

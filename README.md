@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2209](https://github.com/OCA/account-financial-tools/pull/2209) in [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools)
-2. 🎉 Merged PR [#5379](https://github.com/OCA/OpenUpgrade/pull/5379) in [OCA/OpenUpgrade](https://github.com/OCA/OpenUpgrade)
-3. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789940584) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789926021) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#5030](https://github.com/OCA/l10n-italy/pull/5030#issuecomment-3789178928) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#1440](https://github.com/OCA/account-financial-reporting/pull/1440#issuecomment-3833934010) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+2. 🗣 Commented on [#1393](https://github.com/OCA/account-financial-reporting/issues/1393#issuecomment-3833929522) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+3. 💪 Opened PR [#1440](https://github.com/OCA/account-financial-reporting/pull/1440) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+4. 💪 Opened PR [#2209](https://github.com/OCA/account-financial-tools/pull/2209) in [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools)
+5. 🎉 Merged PR [#5379](https://github.com/OCA/OpenUpgrade/pull/5379) in [OCA/OpenUpgrade](https://github.com/OCA/OpenUpgrade)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1449](https://github.com/OCA/account-financial-reporting/pull/1449) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
-2. 💪 Opened PR [#1448](https://github.com/OCA/account-financial-reporting/pull/1448) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
-3. 💪 Opened PR [#5111](https://github.com/OCA/l10n-italy/pull/5111) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#4930](https://github.com/OCA/l10n-italy/issues/4930#issuecomment-3890227991) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#2285](https://github.com/OCA/partner-contact/pull/2285#issuecomment-3870829935) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+1. 🗣 Commented on [#5089](https://github.com/OCA/l10n-italy/pull/5089#issuecomment-3921962073) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#5089](https://github.com/OCA/l10n-italy/pull/5089#issuecomment-3921953203) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#1449](https://github.com/OCA/account-financial-reporting/pull/1449) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+4. 💪 Opened PR [#1448](https://github.com/OCA/account-financial-reporting/pull/1448) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+5. 💪 Opened PR [#5111](https://github.com/OCA/l10n-italy/pull/5111) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-4031033757) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#909](https://github.com/OCA/delivery-carrier/pull/909#issuecomment-4019006930) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
-3. 💪 Opened PR [#5140](https://github.com/OCA/l10n-italy/pull/5140) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#5023](https://github.com/OCA/l10n-italy/pull/5023#issuecomment-4011368889) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#152](https://github.com/OCA/manufacture-reporting/pull/152) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
+1. 💪 Opened PR [#154](https://github.com/OCA/manufacture-reporting/pull/154) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
+2. 💪 Opened PR [#153](https://github.com/OCA/manufacture-reporting/pull/153) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
+3. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-4031033757) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#909](https://github.com/OCA/delivery-carrier/pull/909#issuecomment-4019006930) in [OCA/delivery-carrier](https://github.com/OCA/delivery-carrier)
+5. 💪 Opened PR [#5140](https://github.com/OCA/l10n-italy/pull/5140) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

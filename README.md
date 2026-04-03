@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
-2. ℹ️ Labeled PR [#2](https://github.com/Borruso/odoo/pull/2) in [Borruso/odoo](https://github.com/Borruso/odoo)
-3. 💪 Opened PR [#2](https://github.com/Borruso/odoo/pull/2) in [Borruso/odoo](https://github.com/Borruso/odoo)
-4. ℹ️ Labeled PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
-5. 💪 Opened PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
+1. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4178342717) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. ❌ Closed PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
+3. ℹ️ Labeled PR [#2](https://github.com/Borruso/odoo/pull/2) in [Borruso/odoo](https://github.com/Borruso/odoo)
+4. 💪 Opened PR [#2](https://github.com/Borruso/odoo/pull/2) in [Borruso/odoo](https://github.com/Borruso/odoo)
+5. ℹ️ Labeled PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
 <!--END_SECTION:activity-->

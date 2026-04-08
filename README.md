@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5083](https://github.com/OCA/l10n-italy/pull/5083#issuecomment-4183413898) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4182287493) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4178342717) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. ❌ Closed PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
-5. ℹ️ Labeled PR [#2](https://github.com/Borruso/odoo/pull/2) in [Borruso/odoo](https://github.com/Borruso/odoo)
+1. 🗣 Commented on [#5040](https://github.com/OCA/l10n-italy/pull/5040#issuecomment-4198485235) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#5083](https://github.com/OCA/l10n-italy/pull/5083#issuecomment-4183413898) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4182287493) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4178342717) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. ❌ Closed PR [#1](https://github.com/Borruso/odoo/pull/1) in [Borruso/odoo](https://github.com/Borruso/odoo)
 <!--END_SECTION:activity-->

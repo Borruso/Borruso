@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#373](https://github.com/OCA/account-closing/pull/373) in [OCA/account-closing](https://github.com/OCA/account-closing)
-2. 🗣 Commented on [#5040](https://github.com/OCA/l10n-italy/pull/5040#issuecomment-4198485235) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#5083](https://github.com/OCA/l10n-italy/pull/5083#issuecomment-4183413898) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4182287493) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#5162](https://github.com/OCA/l10n-italy/pull/5162#issuecomment-4178342717) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#4282](https://github.com/OCA/sale-workflow/pull/4282) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
+2. 💪 Opened PR [#1704](https://github.com/OCA/project/pull/1704) in [OCA/project](https://github.com/OCA/project)
+3. 💪 Opened PR [#60](https://github.com/OCA/project-reporting/pull/60) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
+4. 💪 Opened PR [#373](https://github.com/OCA/account-closing/pull/373) in [OCA/account-closing](https://github.com/OCA/account-closing)
+5. 🗣 Commented on [#5040](https://github.com/OCA/l10n-italy/pull/5040#issuecomment-4198485235) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

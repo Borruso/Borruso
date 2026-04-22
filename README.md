@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#493](https://github.com/OCA/stock-logistics-reporting/pull/493) in [OCA/stock-logistics-reporting](https://github.com/OCA/stock-logistics-reporting)
-2. 💪 Opened PR [#4282](https://github.com/OCA/sale-workflow/pull/4282) in [OCA/sale-workflow](https://github.com/OCA/sale-workflow)
-3. 💪 Opened PR [#1704](https://github.com/OCA/project/pull/1704) in [OCA/project](https://github.com/OCA/project)
-4. 💪 Opened PR [#60](https://github.com/OCA/project-reporting/pull/60) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
-5. 💪 Opened PR [#373](https://github.com/OCA/account-closing/pull/373) in [OCA/account-closing](https://github.com/OCA/account-closing)
+1. 💪 Opened PR [#776](https://github.com/OCA/management-system/pull/776) in [OCA/management-system](https://github.com/OCA/management-system)
+2. 💪 Opened PR [#775](https://github.com/OCA/management-system/pull/775) in [OCA/management-system](https://github.com/OCA/management-system)
+3. 💪 Opened PR [#774](https://github.com/OCA/management-system/pull/774) in [OCA/management-system](https://github.com/OCA/management-system)
+4. 💪 Opened PR [#773](https://github.com/OCA/management-system/pull/773) in [OCA/management-system](https://github.com/OCA/management-system)
+5. 💪 Opened PR [#772](https://github.com/OCA/management-system/pull/772) in [OCA/management-system](https://github.com/OCA/management-system)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#776](https://github.com/OCA/management-system/pull/776) in [OCA/management-system](https://github.com/OCA/management-system)
-2. 💪 Opened PR [#775](https://github.com/OCA/management-system/pull/775) in [OCA/management-system](https://github.com/OCA/management-system)
-3. 💪 Opened PR [#774](https://github.com/OCA/management-system/pull/774) in [OCA/management-system](https://github.com/OCA/management-system)
-4. 💪 Opened PR [#773](https://github.com/OCA/management-system/pull/773) in [OCA/management-system](https://github.com/OCA/management-system)
-5. 💪 Opened PR [#772](https://github.com/OCA/management-system/pull/772) in [OCA/management-system](https://github.com/OCA/management-system)
+1. 💪 Opened PR [#992](https://github.com/OCA/multi-company/pull/992) in [OCA/multi-company](https://github.com/OCA/multi-company)
+2. 💪 Opened PR [#784](https://github.com/OCA/management-system/pull/784) in [OCA/management-system](https://github.com/OCA/management-system)
+3. 💪 Opened PR [#783](https://github.com/OCA/management-system/pull/783) in [OCA/management-system](https://github.com/OCA/management-system)
+4. 💪 Opened PR [#781](https://github.com/OCA/management-system/pull/781) in [OCA/management-system](https://github.com/OCA/management-system)
+5. 💪 Opened PR [#780](https://github.com/OCA/management-system/pull/780) in [OCA/management-system](https://github.com/OCA/management-system)
 <!--END_SECTION:activity-->

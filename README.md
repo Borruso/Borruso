@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4802](https://github.com/OCA/l10n-italy/pull/4802#issuecomment-4532476598) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#638](https://github.com/OCA/commission/pull/638#issuecomment-4397245668) in [OCA/commission](https://github.com/OCA/commission)
-3. 🗣 Commented on [#5185](https://github.com/OCA/l10n-italy/pull/5185#issuecomment-4372058280) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#784](https://github.com/OCA/management-system/pull/784) in [OCA/management-system](https://github.com/OCA/management-system)
+1. 🗣 Commented on [#5177](https://github.com/OCA/l10n-italy/pull/5177#issuecomment-4572058803) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#4802](https://github.com/OCA/l10n-italy/pull/4802#issuecomment-4532476598) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#638](https://github.com/OCA/commission/pull/638#issuecomment-4397245668) in [OCA/commission](https://github.com/OCA/commission)
+4. 🗣 Commented on [#5185](https://github.com/OCA/l10n-italy/pull/5185#issuecomment-4372058280) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 5. 💪 Opened PR [#783](https://github.com/OCA/management-system/pull/783) in [OCA/management-system](https://github.com/OCA/management-system)
 <!--END_SECTION:activity-->

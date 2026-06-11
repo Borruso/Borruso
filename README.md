@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5218](https://github.com/OCA/l10n-italy/pull/5218) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#5217](https://github.com/OCA/l10n-italy/pull/5217) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#5092](https://github.com/OCA/l10n-italy/pull/5092#issuecomment-4658866228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 💪 Opened PR [#5213](https://github.com/OCA/l10n-italy/pull/5213) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+1. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4678569221) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+2. 🗣 Commented on [#775](https://github.com/OCA/management-system/pull/775#issuecomment-4671270785) in [OCA/management-system](https://github.com/OCA/management-system)
+3. 💪 Opened PR [#5218](https://github.com/OCA/l10n-italy/pull/5218) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#5217](https://github.com/OCA/l10n-italy/pull/5217) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#5092](https://github.com/OCA/l10n-italy/pull/5092#issuecomment-4658866228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

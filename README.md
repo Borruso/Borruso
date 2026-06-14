@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4679860167) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
-2. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4678625837) in [Borruso/management-system](https://github.com/Borruso/management-system)
-3. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4678569221) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
-4. 🗣 Commented on [#775](https://github.com/OCA/management-system/pull/775#issuecomment-4671270785) in [OCA/management-system](https://github.com/OCA/management-system)
-5. 💪 Opened PR [#5218](https://github.com/OCA/l10n-italy/pull/5218) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4699258690) in [Borruso/management-system](https://github.com/Borruso/management-system)
+2. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4679860167) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+3. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4678625837) in [Borruso/management-system](https://github.com/Borruso/management-system)
+4. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4678569221) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+5. 🗣 Commented on [#775](https://github.com/OCA/management-system/pull/775#issuecomment-4671270785) in [OCA/management-system](https://github.com/OCA/management-system)
 <!--END_SECTION:activity-->

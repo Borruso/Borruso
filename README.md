@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#569](https://github.com/OCA/maintenance/pull/569) in [OCA/maintenance](https://github.com/OCA/maintenance)
-2. 🗣 Commented on [#1168](https://github.com/OCA/reporting-engine/pull/1168#issuecomment-4719614505) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
-3. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4699258690) in [Borruso/management-system](https://github.com/Borruso/management-system)
-4. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4679860167) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
-5. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4678625837) in [Borruso/management-system](https://github.com/Borruso/management-system)
+1. 💪 Opened PR [#956](https://github.com/OCA/account-payment/pull/956) in [OCA/account-payment](https://github.com/OCA/account-payment)
+2. 💪 Opened PR [#569](https://github.com/OCA/maintenance/pull/569) in [OCA/maintenance](https://github.com/OCA/maintenance)
+3. 🗣 Commented on [#1168](https://github.com/OCA/reporting-engine/pull/1168#issuecomment-4719614505) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
+4. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4699258690) in [Borruso/management-system](https://github.com/Borruso/management-system)
+5. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4679860167) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
 <!--END_SECTION:activity-->

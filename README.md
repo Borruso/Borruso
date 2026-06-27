@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#956](https://github.com/OCA/account-payment/pull/956) in [OCA/account-payment](https://github.com/OCA/account-payment)
-2. 💪 Opened PR [#569](https://github.com/OCA/maintenance/pull/569) in [OCA/maintenance](https://github.com/OCA/maintenance)
-3. 🗣 Commented on [#1168](https://github.com/OCA/reporting-engine/pull/1168#issuecomment-4719614505) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
-4. 🗣 Commented on [#1](https://github.com/Borruso/management-system/pull/1#issuecomment-4699258690) in [Borruso/management-system](https://github.com/Borruso/management-system)
-5. 🗣 Commented on [#2362](https://github.com/OCA/stock-logistics-workflow/pull/2362#issuecomment-4679860167) in [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow)
+1. 💪 Opened PR [#1587](https://github.com/OCA/hr/pull/1587) in [OCA/hr](https://github.com/OCA/hr)
+2. 💪 Opened PR [#155](https://github.com/OCA/manufacture-reporting/pull/155) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
+3. 💪 Opened PR [#956](https://github.com/OCA/account-payment/pull/956) in [OCA/account-payment](https://github.com/OCA/account-payment)
+4. 💪 Opened PR [#569](https://github.com/OCA/maintenance/pull/569) in [OCA/maintenance](https://github.com/OCA/maintenance)
+5. 🗣 Commented on [#1168](https://github.com/OCA/reporting-engine/pull/1168#issuecomment-4719614505) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
 <!--END_SECTION:activity-->

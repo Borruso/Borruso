@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3118](https://github.com/OCA/purchase-workflow/pull/3118) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
-2. 🗣 Commented on [#4834](https://github.com/OCA/l10n-italy/pull/4834#issuecomment-4863201786) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#1587](https://github.com/OCA/hr/pull/1587) in [OCA/hr](https://github.com/OCA/hr)
-4. 💪 Opened PR [#155](https://github.com/OCA/manufacture-reporting/pull/155) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
-5. 💪 Opened PR [#956](https://github.com/OCA/account-payment/pull/956) in [OCA/account-payment](https://github.com/OCA/account-payment)
+1. 🗣 Commented on [#5083](https://github.com/OCA/l10n-italy/pull/5083#issuecomment-4882236046) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#3118](https://github.com/OCA/purchase-workflow/pull/3118) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
+3. 🗣 Commented on [#4834](https://github.com/OCA/l10n-italy/pull/4834#issuecomment-4863201786) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 💪 Opened PR [#1587](https://github.com/OCA/hr/pull/1587) in [OCA/hr](https://github.com/OCA/hr)
+5. 💪 Opened PR [#155](https://github.com/OCA/manufacture-reporting/pull/155) in [OCA/manufacture-reporting](https://github.com/OCA/manufacture-reporting)
 <!--END_SECTION:activity-->

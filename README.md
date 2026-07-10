@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#862](https://github.com/OCA/operating-unit/pull/862) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-2. ❌ Closed PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
-3. 💪 Opened PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
-4. 🗣 Commented on [#5083](https://github.com/OCA/l10n-italy/pull/5083#issuecomment-4882236046) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#3118](https://github.com/OCA/purchase-workflow/pull/3118) in [OCA/purchase-workflow](https://github.com/OCA/purchase-workflow)
+1. 💪 Opened PR [#2343](https://github.com/OCA/product-attribute/pull/2343) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+2. 💪 Opened PR [#2342](https://github.com/OCA/product-attribute/pull/2342) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+3. 💪 Opened PR [#862](https://github.com/OCA/operating-unit/pull/862) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
+4. ❌ Closed PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
+5. 💪 Opened PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
 <!--END_SECTION:activity-->

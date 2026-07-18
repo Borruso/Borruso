@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2343](https://github.com/OCA/product-attribute/pull/2343) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-2. 💪 Opened PR [#2342](https://github.com/OCA/product-attribute/pull/2342) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-3. 💪 Opened PR [#862](https://github.com/OCA/operating-unit/pull/862) in [OCA/operating-unit](https://github.com/OCA/operating-unit)
-4. ❌ Closed PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
-5. 💪 Opened PR [#264](https://github.com/OCA/hr-holidays/pull/264) in [OCA/hr-holidays](https://github.com/OCA/hr-holidays)
+1. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#280](https://github.com/OCA/payroll/pull/280) in [OCA/payroll](https://github.com/OCA/payroll)
+3. 💪 Opened PR [#279](https://github.com/OCA/payroll/pull/279) in [OCA/payroll](https://github.com/OCA/payroll)
+4. 🗣 Commented on [#268](https://github.com/OCA/payroll/pull/268#issuecomment-5000289196) in [OCA/payroll](https://github.com/OCA/payroll)
+5. 💪 Opened PR [#2343](https://github.com/OCA/product-attribute/pull/2343) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 <!--END_SECTION:activity-->

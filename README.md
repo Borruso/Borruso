@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 💪 Opened PR [#280](https://github.com/OCA/payroll/pull/280) in [OCA/payroll](https://github.com/OCA/payroll)
-3. 💪 Opened PR [#279](https://github.com/OCA/payroll/pull/279) in [OCA/payroll](https://github.com/OCA/payroll)
-4. 🗣 Commented on [#268](https://github.com/OCA/payroll/pull/268#issuecomment-5000289196) in [OCA/payroll](https://github.com/OCA/payroll)
-5. 💪 Opened PR [#2343](https://github.com/OCA/product-attribute/pull/2343) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+1. 💪 Opened PR [#1778](https://github.com/OCA/project/pull/1778) in [OCA/project](https://github.com/OCA/project)
+2. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 💪 Opened PR [#280](https://github.com/OCA/payroll/pull/280) in [OCA/payroll](https://github.com/OCA/payroll)
+4. 💪 Opened PR [#279](https://github.com/OCA/payroll/pull/279) in [OCA/payroll](https://github.com/OCA/payroll)
+5. 🗣 Commented on [#268](https://github.com/OCA/payroll/pull/268#issuecomment-5000289196) in [OCA/payroll](https://github.com/OCA/payroll)
 <!--END_SECTION:activity-->

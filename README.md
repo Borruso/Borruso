@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1778](https://github.com/OCA/project/pull/1778) in [OCA/project](https://github.com/OCA/project)
-2. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 💪 Opened PR [#280](https://github.com/OCA/payroll/pull/280) in [OCA/payroll](https://github.com/OCA/payroll)
-4. 💪 Opened PR [#279](https://github.com/OCA/payroll/pull/279) in [OCA/payroll](https://github.com/OCA/payroll)
-5. 🗣 Commented on [#268](https://github.com/OCA/payroll/pull/268#issuecomment-5000289196) in [OCA/payroll](https://github.com/OCA/payroll)
+1. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5068088165) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5067860289) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#1412](https://github.com/OCA/account-financial-reporting/pull/1412#issuecomment-5067840035) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
+4. 💪 Opened PR [#1778](https://github.com/OCA/project/pull/1778) in [OCA/project](https://github.com/OCA/project)
+5. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

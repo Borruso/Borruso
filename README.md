@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5068088165) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5067860289) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#1412](https://github.com/OCA/account-financial-reporting/pull/1412#issuecomment-5067840035) in [OCA/account-financial-reporting](https://github.com/OCA/account-financial-reporting)
-4. 💪 Opened PR [#1778](https://github.com/OCA/project/pull/1778) in [OCA/project](https://github.com/OCA/project)
-5. 💪 Opened PR [#5256](https://github.com/OCA/l10n-italy/pull/5256) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#104](https://github.com/OCA/mail/pull/104#issuecomment-5131957642) in [OCA/mail](https://github.com/OCA/mail)
+2. 💪 Opened PR [#1](https://github.com/camptocamp/mail/pull/1) in [camptocamp/mail](https://github.com/camptocamp/mail)
+3. 🗣 Commented on [#5265](https://github.com/OCA/l10n-italy/pull/5265#issuecomment-5131585194) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+4. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5068088165) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-5067860289) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

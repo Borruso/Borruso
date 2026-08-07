@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Borruso/purchase-workflow/pull/2#issuecomment-5143575248) in [Borruso/purchase-workflow](https://github.com/Borruso/purchase-workflow)
-2. 💪 Opened PR [#81](https://github.com/OCA/stock-logistics-availability/pull/81) in [OCA/stock-logistics-availability](https://github.com/OCA/stock-logistics-availability)
-3. 🗣 Commented on [#104](https://github.com/OCA/mail/pull/104#issuecomment-5131957642) in [OCA/mail](https://github.com/OCA/mail)
-4. 💪 Opened PR [#1](https://github.com/camptocamp/mail/pull/1) in [camptocamp/mail](https://github.com/camptocamp/mail)
-5. 🗣 Commented on [#5265](https://github.com/OCA/l10n-italy/pull/5265#issuecomment-5131585194) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#5272](https://github.com/OCA/l10n-italy/pull/5272) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 🗣 Commented on [#2](https://github.com/Borruso/purchase-workflow/pull/2#issuecomment-5143575248) in [Borruso/purchase-workflow](https://github.com/Borruso/purchase-workflow)
+3. 💪 Opened PR [#81](https://github.com/OCA/stock-logistics-availability/pull/81) in [OCA/stock-logistics-availability](https://github.com/OCA/stock-logistics-availability)
+4. 🗣 Commented on [#104](https://github.com/OCA/mail/pull/104#issuecomment-5131957642) in [OCA/mail](https://github.com/OCA/mail)
+5. 💪 Opened PR [#1](https://github.com/camptocamp/mail/pull/1) in [camptocamp/mail](https://github.com/camptocamp/mail)
 <!--END_SECTION:activity-->

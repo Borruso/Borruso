@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/luca-vercelli/odoo-modules/issues/7#issuecomment-6209962468) in [luca-vercelli/odoo-modules](https://github.com/luca-vercelli/odoo-modules)
-2. 🗣 Commented on [#5052](https://github.com/OCA/l10n-italy/pull/5052#issuecomment-6214016980) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-3. 🗣 Commented on [#7](https://github.com/luca-vercelli/odoo-modules/issues/7#issuecomment-6194549207) in [luca-vercelli/odoo-modules](https://github.com/luca-vercelli/odoo-modules)
-4. ❌ Closed PR [#5086](https://github.com/OCA/l10n-italy/pull/5086) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 🗣 Commented on [#5218](https://github.com/OCA/l10n-italy/pull/5218#issuecomment-5908260878) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 🗣 Commented on [#60](https://github.com/OCA/project-reporting/pull/60#issuecomment-6270078988) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
+2. 💪 Opened PR [#1217](https://github.com/OCA/reporting-engine/pull/1217) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
+3. 💪 Opened PR [#976](https://github.com/OCA/timesheet/pull/976) in [OCA/timesheet](https://github.com/OCA/timesheet)
+4. 💪 Opened PR [#63](https://github.com/OCA/project-reporting/pull/63) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
+5. 💪 Opened PR [#987](https://github.com/OCA/account-payment/pull/987) in [OCA/account-payment](https://github.com/OCA/account-payment)
 <!--END_SECTION:activity-->

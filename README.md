@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1566](https://github.com/OCA/contract/pull/1566) in [OCA/contract](https://github.com/OCA/contract)
-2. 💪 Opened PR [#1218](https://github.com/OCA/reporting-engine/pull/1218) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
-3. 🗣 Commented on [#60](https://github.com/OCA/project-reporting/pull/60#issuecomment-6270078988) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
-4. 💪 Opened PR [#1217](https://github.com/OCA/reporting-engine/pull/1217) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
-5. 💪 Opened PR [#976](https://github.com/OCA/timesheet/pull/976) in [OCA/timesheet](https://github.com/OCA/timesheet)
+1. ❌ Closed PR [#5083](https://github.com/OCA/l10n-italy/pull/5083) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+2. 💪 Opened PR [#1566](https://github.com/OCA/contract/pull/1566) in [OCA/contract](https://github.com/OCA/contract)
+3. 💪 Opened PR [#1218](https://github.com/OCA/reporting-engine/pull/1218) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
+4. 🗣 Commented on [#60](https://github.com/OCA/project-reporting/pull/60#issuecomment-6270078988) in [OCA/project-reporting](https://github.com/OCA/project-reporting)
+5. 💪 Opened PR [#1217](https://github.com/OCA/reporting-engine/pull/1217) in [OCA/reporting-engine](https://github.com/OCA/reporting-engine)
 <!--END_SECTION:activity-->

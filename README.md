@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/OCA/account-closing/pull/400) in [OCA/account-closing](https://github.com/OCA/account-closing)
-2. 💪 Opened PR [#2420](https://github.com/OCA/account-financial-tools/pull/2420) in [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools)
-3. 💪 Opened PR [#2419](https://github.com/OCA/account-financial-tools/pull/2419) in [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools)
-4. 💪 Opened PR [#1568](https://github.com/OCA/contract/pull/1568) in [OCA/contract](https://github.com/OCA/contract)
-5. ❌ Closed PR [#5083](https://github.com/OCA/l10n-italy/pull/5083) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#886](https://github.com/OCA/management-system/pull/886) in [OCA/management-system](https://github.com/OCA/management-system)
+2. 💪 Opened PR [#885](https://github.com/OCA/management-system/pull/885) in [OCA/management-system](https://github.com/OCA/management-system)
+3. 💪 Opened PR [#884](https://github.com/OCA/management-system/pull/884) in [OCA/management-system](https://github.com/OCA/management-system)
+4. 💪 Opened PR [#883](https://github.com/OCA/management-system/pull/883) in [OCA/management-system](https://github.com/OCA/management-system)
+5. 💪 Opened PR [#882](https://github.com/OCA/management-system/pull/882) in [OCA/management-system](https://github.com/OCA/management-system)
 <!--END_SECTION:activity-->

@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-6893736228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-2. 🗣 Commented on [#1566](https://github.com/OCA/contract/pull/1566#issuecomment-6854731968) in [OCA/contract](https://github.com/OCA/contract)
-3. 🗣 Commented on [#995](https://github.com/OCA/account-payment/pull/995#issuecomment-6828908036) in [OCA/account-payment](https://github.com/OCA/account-payment)
-4. 💪 Opened PR [#5445](https://github.com/OCA/l10n-italy/pull/5445) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-5. 💪 Opened PR [#5444](https://github.com/OCA/l10n-italy/pull/5444) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+1. 💪 Opened PR [#2724](https://github.com/OCA/stock-logistics-warehouse/pull/2724) in [OCA/stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse)
+2. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-6893736228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+3. 🗣 Commented on [#1566](https://github.com/OCA/contract/pull/1566#issuecomment-6854731968) in [OCA/contract](https://github.com/OCA/contract)
+4. 🗣 Commented on [#995](https://github.com/OCA/account-payment/pull/995#issuecomment-6828908036) in [OCA/account-payment](https://github.com/OCA/account-payment)
+5. 💪 Opened PR [#5445](https://github.com/OCA/l10n-italy/pull/5445) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
 <!--END_SECTION:activity-->

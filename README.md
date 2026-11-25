@@ -139,9 +139,9 @@
 ### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/OCA/repo-maintainer-conf/pull/256#issuecomment-6975500266) in [OCA/repo-maintainer-conf](https://github.com/OCA/repo-maintainer-conf)
-2. 💪 Opened PR [#2724](https://github.com/OCA/stock-logistics-warehouse/pull/2724) in [OCA/stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse)
-3. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-6893736228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
-4. 🗣 Commented on [#1566](https://github.com/OCA/contract/pull/1566#issuecomment-6854731968) in [OCA/contract](https://github.com/OCA/contract)
-5. 🗣 Commented on [#995](https://github.com/OCA/account-payment/pull/995#issuecomment-6828908036) in [OCA/account-payment](https://github.com/OCA/account-payment)
+1. 💪 Opened PR [#1013](https://github.com/OCA/account-payment/pull/1013) in [OCA/account-payment](https://github.com/OCA/account-payment)
+2. 🗣 Commented on [#256](https://github.com/OCA/repo-maintainer-conf/pull/256#issuecomment-6975500266) in [OCA/repo-maintainer-conf](https://github.com/OCA/repo-maintainer-conf)
+3. 💪 Opened PR [#2724](https://github.com/OCA/stock-logistics-warehouse/pull/2724) in [OCA/stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse)
+4. 🗣 Commented on [#5014](https://github.com/OCA/l10n-italy/pull/5014#issuecomment-6893736228) in [OCA/l10n-italy](https://github.com/OCA/l10n-italy)
+5. 🗣 Commented on [#1566](https://github.com/OCA/contract/pull/1566#issuecomment-6854731968) in [OCA/contract](https://github.com/OCA/contract)
 <!--END_SECTION:activity-->
